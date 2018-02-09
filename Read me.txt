@@ -1,0 +1,13 @@
+This project was made for Autonomous robotics course.
+
+There are three folders containing:
+
+Folder No. 1: For the First Problem given to us which was to compute the error of the odometry in a translation only movement.
+
+Folder No. 2: For the Second Problem given to us which was to compute the error of the odometry in a rotation only movement.
+
+Folder No. 3: For the Third Problem given to us which was to compute the error of the odometry in a combined movement.
+
+The code is being pasted in a text file in both the folders to have a quick look on it.
+
+Thank you.
